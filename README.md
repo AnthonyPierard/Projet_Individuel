@@ -1,12 +1,9 @@
-# INFOB318-template
+# INFOB318
 
-Ce fichier reprendra les principales informations relatives à votre projet:
+Acronyme: SVM
 
-Acronyme: 
-Titre:
-Client(s) :
-Étudiant: Nom & prénom
+Titre: Machine Learning interactif - support vector machines
 
-Toute information complémentaire et utile. Ne mettez pas d'informations sensibles pour la sécurité ( GSM, password, email, IP, etc).
+Client : Benoît Frenay
 
-Changez le fichier LICENCE en fonction de vos besoins !!
+Étudiant: Pierard Anthony
